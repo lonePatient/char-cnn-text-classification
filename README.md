@@ -2,6 +2,8 @@
 
 This repo contains a PyTorch implementation of a char-level CNN model  for text classification.
 
+page:<url>https://arxiv.org/pdf/1509.01626.pdf</url>
+
 ## Structure of the code
 
 At the root of the project, you will see:
