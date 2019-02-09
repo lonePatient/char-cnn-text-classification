@@ -9,7 +9,7 @@ The model architecture comes from this paper:<url>https://arxiv.org/pdf/1509.016
 At the root of the project, you will see:
 
 ```text
-├── pybert
+├── pyCharCnn
 |  └── callback
 |  |  └── lrscheduler.py　　
 |  |  └── trainingmonitor.py　
