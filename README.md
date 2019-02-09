@@ -1,8 +1,8 @@
-# BERT Chinese text classification by PyTorch
+# Char-level CNN model for text classification by PyTorch
 
 This repo contains a PyTorch implementation of a char-level CNN model  for text classification.
 
-page:<url>https://arxiv.org/pdf/1509.01626.pdf</url>
+The model architecture comes from this paper:<url>https://arxiv.org/pdf/1509.01626.pdf</url>
 
 ## Structure of the code
 
