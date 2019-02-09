@@ -42,7 +42,7 @@ At the root of the project, you will see:
 
 ## How to use the code
 
-1. Download the `AG's News Topic Classification Dataset` from [comming](url) and place it into the `/pyCharCnn/dataset/raW` directory.
+1. Download the `AG News Topic Classification Dataset` from [comming](url) and place it into the `/pyCharCnn/dataset/raW` directory.
 5. Modify configuration information in `pyCharCnn/config/basic_config.py`(the path of data,...).
 6. run `python train_cnn`.
 
